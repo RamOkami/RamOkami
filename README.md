@@ -8,9 +8,9 @@ Busco especializarme en los Sistemas Inteligentes y el Desarrollo de aplicacione
 
 #
 
-### Proyecto Destacado
+## Proyecto Destacado
 
-####  [HaitianDiscount](https://github.com/RamOkami/HaitianDiscount)
+###  [HaitianDiscount](https://github.com/RamOkami/HaitianDiscount)
 Una plataforma web estilo *Eneba* desarrollada para un cliente, diseñada para la búsqueda y compra de videojuegos de Steam y Eneba con un margen del 30% de descuento adicional.
 
 <p align="center">
