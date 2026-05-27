@@ -45,9 +45,3 @@ Busco especializarme en los Sistemas Inteligentes y el Desarrollo de aplicacione
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ramokami@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramses-quintanilla-82258a407/?skipRedirect=true)
 
-#
-
-### Mis Estadísticas
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RamOkami&show_icons=true&theme=radical)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=RamOkami&layout=compact&theme=radical)
