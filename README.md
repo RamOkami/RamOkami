@@ -50,6 +50,6 @@ Busco especializarme en los Sistemas Inteligentes y el Desarrollo de aplicacione
 ### Mis Estadísticas
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ramokami&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramokami&layout=compact&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RamOkami&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamOkami&layout=compact&theme=radical" alt="Top Lenguajes" />
 </div>
