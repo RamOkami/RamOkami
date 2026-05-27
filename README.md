@@ -1,6 +1,6 @@
 # Hola, soy Ramses Quintanilla
 
-# Sobre mí
+## Sobre mí
 
 Actualmente soy estudiante de la Universidad Catolica del Norte, 
 cursando la carrera de Ingenieria Civil en Computacion e Informatica,
