@@ -1,6 +1,4 @@
-# Hola, soy Ramses Quintanilla 👾
-
-*✦ Astronomy | Coffee | ICCI UCN ✦ Half alive and half dead ✦*
+# Hola, soy Ramses Quintanilla
 
 ---
 
@@ -9,12 +7,11 @@
 
 # Sobre mí
 
-Soy estudiante de ICCI en la UCN, Chile. Navegando entre líneas de código, la astronomía y mucho café. 
+Actualmente soy estudiante de la Universidad Catolica del Norte, 
+cursando la carrera de Ingenieria Civil en Computacion e Informatica,
+Busco especializarme en los Sistemas Inteligentes y el Desarrollo de aplicaciones Web.
 
-- 🔭 Trabajando actualmente en mis proyectos.
-- ⚡ Dato curioso: ¡Mitad vivo, mitad muerto! 🧟‍♂️☕
-
-<br>
+#
 
 ### 🕹️ Mis Habilidades
 
@@ -28,27 +25,24 @@ Soy estudiante de ICCI en la UCN, Chile. Navegando entre líneas de código, la 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **Herramientas y Bases de Datos:**
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<br>
 
-### 🌱 Actualmente Aprendiendo
+
+### Actualmente Aprendiendo
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<br>
+
 
 ### 📟 Redes Sociales
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ramokami)
-
----
-<!-- Estadísticas de GitHub -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamOkami&show_icons=true&theme=radical&hide_border=true" />
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactoramokami@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramses-quintanilla-82258a407/?skipRedirect=true)
