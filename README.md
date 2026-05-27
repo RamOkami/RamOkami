@@ -5,9 +5,9 @@
 ---
 
 <!-- GIF retro pixel art -->
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" align="right" width="100" />
+<!-- <img src="" align="right" width="100" /> -->
 
-### 💾 Sobre mí
+# Sobre mí
 
 Soy estudiante de ICCI en la UCN, Chile. Navegando entre líneas de código, la astronomía y mucho café. 
 
