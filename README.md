@@ -11,21 +11,16 @@ Busco especializarme en los Sistemas Inteligentes y el Desarrollo de aplicacione
 ### Proyecto Destacado
 
 ####  [HaitianDiscount](https://github.com/RamOkami/HaitianDiscount)
-Una plataforma web estilo *Eneba* desarrollada para un cliente real, diseñada para la búsqueda y compra de videojuegos de Steam y Eneba con un margen del 30% de descuento adicional.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-* **Desarrollo Frontend:** Construido con tecnologías web nativas (HTML, CSS, JavaScript) enfocado en una experiencia de usuario fluida e intuitiva para el comercio electrónico.
-* **Arquitectura Serverless:** Integración completa con **Firebase** para la gestión de la base de datos y el alojamiento (Hosting) de la plataforma, garantizando tiempos de respuesta rápidos y disponibilidad.
-* **Lógica de Negocio:** Implementación de sistemas de filtrado de juegos y cálculo automatizado de descuentos competitivos del 30%.
+Una plataforma web estilo *Eneba* desarrollada para un cliente, diseñada para la búsqueda y compra de videojuegos de Steam y Eneba con un margen del 30% de descuento adicional.
 
 <p align="center">
   <img src="imagenes/web_store.png" width="800">
+  <p align="left">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  </p>
 </p>
 
 #
