@@ -1,10 +1,5 @@
 # Hola, soy Ramses Quintanilla
 
----
-
-<!-- GIF retro pixel art -->
-<!-- <img src="" align="right" width="100" /> -->
-
 # Sobre mí
 
 Actualmente soy estudiante de la Universidad Catolica del Norte, 
