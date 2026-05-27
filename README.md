@@ -24,6 +24,8 @@ Una plataforma web estilo *Eneba* desarrollada para un cliente real, diseñada p
 * **Arquitectura Serverless:** Integración completa con **Firebase** para la gestión de la base de datos y el alojamiento (Hosting) de la plataforma, garantizando tiempos de respuesta rápidos y disponibilidad.
 * **Lógica de Negocio:** Implementación de sistemas de filtrado de juegos y cálculo automatizado de descuentos competitivos del 30%.
 
+<img src="imagenes/web_store.png" width="600">
+
 #
 
 ### Mis Habilidades
